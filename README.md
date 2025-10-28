@@ -1,9 +1,9 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY
 
-<h3>ENTER YOUR NAME : paida ram sai K</h3>
+<h3>ENTER YOUR NAME : PAIDA RAM SAI</h3>
 <h3>ENTER YOUR REGISTER NO : 212223110034</h3>
 <h3>EX. NO : 4</h3>
-<h3>DATE :23/10/2025 </h3>
+<h3>DATE :28/10/2025 </h3>
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
   Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
 
